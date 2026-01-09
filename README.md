@@ -8,6 +8,9 @@ Aplikasi Habbit tracker yang cocok untuk anda yang ingin hidupnya lebih teratur 
 # Home Screen
 Terlihat banya fitur yang bisa ditawarkan mulai dari Exp bar search bar, dan Pilihan habbit sesuai kebiasaan
 
+![Uploading Screenshot_2026-01-09-22-27-47-542_com.example.myhabit.jpg…]()
+
+
 
 # Menambahkan Habbit
 
